@@ -3,3 +3,4 @@ name = "third-brain-v7-skills"
 version = "0.1.0"
 description = "agent wiki +engineering skills "
 requires-python = ">=3.10"
+# guard against empty input
